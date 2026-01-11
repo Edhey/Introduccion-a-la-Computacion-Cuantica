@@ -8,8 +8,8 @@ The repository includes:
 
 - Lecture notes and presentations on quantum computing concepts in the [docs/](docs/) folder.
 - Jupyter notebooks with practical implementations and examples of the quantum algorithms in the [algorithms/](algorithms/) folder.
-  - [Deutsch-Jozsa Algorithm](algorithms/deutsch_jozsa)
-  - [Bernstein-Vazirani Algorithm](algorithms/bernstein_vazirani)
+  - [Deutsch-Jozsa Algorithm](algorithms/deutsch-jozsa)
+  - [Bernstein-Vazirani Algorithm](algorithms/bernstein-vazirani)
 
 ## Requirements
 
